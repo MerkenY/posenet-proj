@@ -1,0 +1,13 @@
+canvas{
+
+animation-name: anim;
+animation-iteration-count: infinite;
+animation-duration: 4s;
+
+}
+
+@keyframes anim{
+
+from{box-shadow: 1px 1px 38px cyan;}
+to{box-shadow: 1px 1px 38px yellow;}
+}
